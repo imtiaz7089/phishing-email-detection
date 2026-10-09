@@ -1,3 +1,9 @@
+## 🚀 Live Demo
+
+Try the live application here: [AI-Based Phishing Email Detector](https://phishing-email-detection-k5tmgwwhxqpjhj2zjwo2gm.streamlit.app/)
+
+This web application uses Machine Learning to classify emails as legitimate or potentially phishing/fraudulent.
+
 Phishing Email Detection
 
 Overview
