@@ -5,6 +5,16 @@ Try the live application here: [AI-Based Phishing Email Detector](https://phishi
 This web application uses Machine Learning to classify emails as legitimate or potentially phishing/fraudulent.
 
 Phishing Email Detection
+## 📊 Model Performance
+
+The Logistic Regression model was evaluated on the CEAS_08 dataset using TF-IDF features and an 80/20 stratified train-test split.
+
+* **Accuracy:** 99.45%
+* **Precision:** 99.43%
+* **Recall:** 99.59%
+* **F1-score:** 99.51%
+
+*Note: These metrics represent the experimental evaluation results and do not guarantee the same performance on real-world emails.*
 
 Overview
 
