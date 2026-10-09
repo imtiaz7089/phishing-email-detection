@@ -105,3 +105,8 @@ The research paper presents the methodology, experimental analysis, results, lim
 Code Availability
 
 The complete experimental notebook used in this research is publicly available in this repository.
+### Live Demo
+
+Temporary demo: https://early-friends-appear.loca.lt
+
+Note: This demo uses a temporary LocalTunnel URL and may become unavailable.
